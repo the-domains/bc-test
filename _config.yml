@@ -1,0 +1,28 @@
+name: BC Test
+favicon: null
+layout_spectrum: 0.4586129100061953
+typography_spectrum: 0.40569
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6708872970193624
+  lightness: 0.11899331747554243
+  saturation: 0.4554660862777382
+  rhythmicContrast: 0.6463612043298781
+purpose: []
